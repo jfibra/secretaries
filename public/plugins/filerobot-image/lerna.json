@@ -1,0 +1,13 @@
+{
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "packages": [
+    "packages/*"
+  ],
+  "version": "4.4.0",
+  "command": {
+    "version": {
+      "message": "Chore(Release): publish new version %s🔥🚀"
+    }
+  }
+}
