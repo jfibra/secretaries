@@ -64,7 +64,7 @@
     <div class="row">
       <div class="card card-widget widget-user-2" style="width: 95%;">
         <ul class="nav flex-column">
-          @foreach($folders_list as $folders)
+          @foreach($folders_list as $folders) 
           <li class="nav-item">
             <a href="{{ URL::to('/view-subfolder') }}/{{ $foldername }}/{{ $folders->foldername }}" class="nav-link">
               {{ $folders->foldername }} 
