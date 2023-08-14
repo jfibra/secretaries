@@ -63,7 +63,7 @@
     <h5 class="mb-2 mt-4"><a href="{{ URL::to('/secretary') }}">Folders</a> <i class="fa fa-square-caret-right"></i> {{ $foldername }}</h5>
     <div class="row">
       <div class="card card-widget widget-user-2" style="width: 95%;">
-        <ul class="nav flex-column">
+        <ul class="nav flex-column"> 
           @foreach($folders_list as $folders) 
           <li class="nav-item">
             <a href="{{ URL::to('/view-subfolder') }}/{{ $foldername }}/{{ $folders->foldername }}" class="nav-link">
