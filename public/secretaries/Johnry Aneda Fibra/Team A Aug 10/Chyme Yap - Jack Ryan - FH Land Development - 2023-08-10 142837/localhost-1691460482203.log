@@ -1,0 +1,9 @@
+bootstrap-slider.min.js:5 bootstrap-slider.js - WARNING: $.fn.slider namespace is already bound. Use the $.fn.bootstrapSlider namespace instead.
+(anonymous) @ bootstrap-slider.min.js:5
+Team%20Royalties#:1 An invalid form control with name='developer' is not focusable. <input type=​"text" class=​"form-control" id=​"developer" name=​"developer" required>​
+Team%20Royalties#:1 An invalid form control with name='agentname' is not focusable. <input type=​"text" class=​"form-control" id=​"agentname" name=​"agentname" required>​
+Team%20Royalties#:1 An invalid form control with name='buyername' is not focusable. <input type=​"text" class=​"form-control" id=​"buyername" name=​"buyername" required>​
+Team%20Royalties#:1 An invalid form control with name='projectname' is not focusable. <input type=​"text" class=​"form-control" id=​"projectname" name=​"projectname" required>​
+DevTools failed to load source map: Could not load content for http://localhost:8000/js/axios.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for http://localhost:8000/plugins/bootstrap-slider/css/bootstrap-slider.min.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for http://localhost:8000/css/bootstrap.min.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
